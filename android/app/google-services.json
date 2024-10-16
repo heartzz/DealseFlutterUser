@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1041124858111",
+    "project_id": "demoflutter-2d9e9",
+    "storage_bucket": "demoflutter-2d9e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041124858111:android:518e7fe7aeb7eb7b45d4ca",
+        "android_client_info": {
+          "package_name": "com.dealse.dealse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041124858111-sag8crcottmf0jancv83tipjlsqi86k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dealse.dealse",
+            "certificate_hash": "6d1dfcb9687fe9cbc97cea9ba936b3d2364a6a12"
+          }
+        },
+        {
+          "client_id": "1041124858111-0g53d7e131bm5qsd1fpfek0v1kh4nv5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFb-df9-YPdcai0KjhvPzUwnHxn0IF8js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041124858111-0g53d7e131bm5qsd1fpfek0v1kh4nv5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041124858111-95sq7q7iffr4bvgm6ba06al4r5181kpv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dealse.dealse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
